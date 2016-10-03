@@ -1,3 +1,5 @@
+<?php  // <~ do not copy the opening php tag
+
 add_theme_support( 'genesis-connect-woocommerce' );
 
 // Display 12 products per page. Goes in functions.php
