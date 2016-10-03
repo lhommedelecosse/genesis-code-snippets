@@ -1,3 +1,5 @@
+<?php  // <~ do not copy the opening php tag
+
 //* Change the footer text
 add_filter('genesis_footer_creds_text', 'sp_footer_creds_filter');
 function sp_footer_creds_filter( $creds ) {
