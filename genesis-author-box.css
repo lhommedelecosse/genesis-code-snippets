@@ -1,0 +1,33 @@
+/* For FontAwesome Icon Stylin */
+.social-links {
+    overflow:auto;
+    margin-top:10px;
+}
+ 
+.social-links li {
+    list-style-type: none;
+    float: left;
+}
+ 
+.social-links a {
+    border-bottom: none;
+}
+ 
+.social-links i {
+    background: #205D7A;
+    color: #fff;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    font-size: 25px;
+    text-align: center;
+    margin-right: 10px;
+    padding-top: 15%;
+    transition-property: opacity;
+    transition-delay: 0.3s;
+    transition-duration: .5s;
+}
+ 
+.social-links i:hover {
+    opacity:.7;   
+}
