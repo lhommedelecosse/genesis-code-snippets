@@ -1,3 +1,5 @@
+<?php  // <~ do not copy the opening php tag
+
 /**
  * Changing the AuthorBox in WordPress
  * 
