@@ -1,3 +1,5 @@
+<?php  // <~ do not copy the opening php tag
+
 add_image_size( 'related', 100, 100, true );
 
 add_action( 'genesis_after_entry_content', 'child_related_posts' );
