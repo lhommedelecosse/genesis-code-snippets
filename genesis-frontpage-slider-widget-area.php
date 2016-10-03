@@ -1,3 +1,5 @@
+<?php  // <~ do not copy the opening php tag
+
 //Add in new Widget areas
 function themeprefix_extra_widgets() {
 	genesis_register_sidebar( array(
